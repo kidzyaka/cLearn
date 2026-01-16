@@ -1,0 +1,17 @@
+[17:25:23] [~/Desktop/cLearn] [main ✖] ❱❱❱ brew list
+==> Formulae
+aircrack-ng	cbonsai		ffmpeg		gh		imath		libass		libnghttp3	libtiff		libxcb		lzo		nyancat		pcre		rav1e		snappy		tty-clock	yt-dlp
+aom		certifi		fftw		giflib		iniparser	libb2		libngtcp2	libudfread	libxdmcp	mad		open-mpi	pcre2		readline	sox		unbound		yyjson
+aribb24		cjson		flac		glib		ipmitool	libbluray	libogg		libunibreak	libxext		mbedtls		opencore-amr	pipx		rubberband	speedtest-cli	unibilium	z3
+bash		confuse		flashrom	gmp		iproute2mac	libdeflate	libpng		libunistring	libxrender	mpdecimal	openexr		pixman		ruff		speex		utf8proc	zeromq
+black		coreutils	fontconfig	gnutls		isl		libevent	librist		libusb		little-cms2	mpfr		openjdk		pkgconf		rust		sqlite		uvwasi		zimg
+boost		crunch		freetype	graphite2	jadx		libftdi		libsamplerate	libuv		llvm		mpg123		openjpeg	pmix		sampler		srt		webp		zstd
+brotli		dav1d		frei0r		harfbuzz	jpeg-turbo	libgit2		libsndfile	libvidstab	lpeg		ncdu		openjph		portaudio	scrcpy		svt-av1		wget
+btop		deno		fribidi		highway		jpeg-xl		libidn2		libsodium	libvmaf		lsusb		ncurses		openssl@3	postgresql@14	sdl2		tesseract	x264
+c-ares		dex2jar		gcc		htop		krb5		liblinear	libsoxr		libvorbis	lua		neovim		opus		pyright		sevenzip	tetris		x265
+ca-certificates	dotnet		gdbm		hwloc		lame		libmicrohttpd	libssh		libvpx		luajit		nettle		opusfile	python@3.10	simdjson	theora		xorgproto
+cairo		fastfetch	gdu		icu4c@77	leptonica	libmpc		libssh2		libx11		luv		nmap		p11-kit		python@3.13	sl		tree		xvid
+cava		fd		gettext		icu4c@78	libarchive	libnghttp2	libtasn1	libxau		lz4		node		pango		python@3.14	smartmontools	tree-sitter	xz
+
+==> Casks
+aerospace		android-platform-tools	bitwarden		chromium		godot			marmaduke-chromium	obs			pgadmin4		prismlauncher		thunderbird

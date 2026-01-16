@@ -6,7 +6,7 @@ int main() {
   while ((c = getchar()) != EOF)
     if (c == ' ')
       spaces++;
-  if (c = '\t')
+  if (c = ' ')
     tabs++;
 
   printf("%d %d\n", spaces, tabs);
